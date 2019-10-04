@@ -6,3 +6,8 @@ Repositório utilizado para guardar todo material de robótica desenvolvido em a
 - Deve fazer algo.
 
 Como será que está ficando?
+
+#Mudança feita fora do Git
+
+bsffnfhdf
+ndhdfbf
